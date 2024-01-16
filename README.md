@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 ## 👋 Hi there! I'm Rafael Brito
 📍 **Location:** Ambato, Ecuador
 🎓 **What I Do:** Aspiring Software Engineer
